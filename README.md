@@ -1,11 +1,42 @@
-# My Portfolio Website
+# Nuxt 3 Minimal Starter
 
-You can get all the features and their relevant codes in relavant branches. Feel free to edit them according to your choice with proper credits.
+Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
-For any queries- rajuahmad6789@gmail.com 
+## Setup
 
+Make sure to install the dependencies:
 
+```bash
+# yarn
+yarn install
 
-`credits-bedimcode`
+# npm
+npm install
 
+# pnpm
+pnpm install --shamefully-hoist
+```
 
+## Development Server
+
+Start the development server on http://localhost:3000
+
+```bash
+npm run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+npm run build
+```
+
+Locally preview production build:
+
+```bash
+npm run preview
+```
+
+Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.

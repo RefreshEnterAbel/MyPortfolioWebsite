@@ -506,47 +506,6 @@ img{
     display: block;
     background-color: var(--first-color);
 }
-
-.skills__laravel{
-    width: 80%;
-}
-
-.skills__django{
-    width: 60%;
-}
-
-.skills__php{
-    width: 80%;
-}
-
-.skills__typescript{
-    width: 70%;
-}
-
-.skills__react{
-    width: 70%;
-}
-
-.skills__material{
-    width: 60%;
-}
-
-.skills__javascript{
-    width: 80%;
-}
-
-.skills__formik{
-    width: 60%;
-}
-
-.skills__mysql{
-    width: 80%;
-}
-
-.skills__graphql{
-    width: 70%;
-}
-
 .skills__close .skills__list{
     height: 0;
     overflow: hidden;
